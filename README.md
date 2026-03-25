@@ -24,17 +24,7 @@ Python • Go • Bash • PowerShell • SQL • Linux
 
 ### 🔹 DevOps Engineer Intern @ Blue Cross Blue Shield of Arizona
 
-* Integrated **SAST/DAST into 300+ CI/CD pipelines**, improving security compliance
-* Built reusable pipeline templates → standardized deployments across teams
-* Developed automated smoke tests & API validations → improved release reliability
-* Provisioned AWS infra (EC2, S3, RDS) using Terraform → **40% faster setup**
-
 ### 🔹 Cloud Engineer @ LTIMindtree
-
-* Built automation using **AWS Lambda + Python** for cloud operations
-* Developed **PowerShell + Ansible automation** → reduced manual effort by 30%+
-* Implemented Infrastructure as Code with Terraform + Azure DevOps pipelines
-* Created runbooks & documentation for production cloud systems
 
 ---
 
