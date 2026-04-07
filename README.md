@@ -24,7 +24,17 @@ Python • Go • Bash • PowerShell • SQL • Linux
 
 ---
 
-## 💼 Experience Highlights
+## � Featured Repositories
+
+* [**fullstack-kanban-task-manager**](https://github.com/viditpawar/fullstack-kanban-task-manager) - Full-stack task board with React, Node.js, Express & GitHub Actions CI/CD
+* [**bakery-demand-forecasting-system**](https://github.com/viditpawar/bakery-demand-forecasting-system) - Seasonal demand forecasting API with Prophet & Docker
+* [**Dynamic-Fare-Detection**](https://github.com/viditpawar/Dynamic-Fare-Detection) - Real-time NYC taxi fare prediction using ML & FastAPI
+* [**flask-devops-lab**](https://github.com/viditpawar/flask-devops-lab) - DevOps practices with Flask applications
+* [**Power-BI-Dashboards**](https://github.com/viditpawar/Power-BI-Dashboards) - Interactive dashboards for sales & business analytics
+
+---
+
+## �💼 Experience Highlights
 
 ### 🔹 DevOps Engineer Intern @ Blue Cross Blue Shield of Arizona
 
@@ -72,3 +82,11 @@ Python • Go • Bash • PowerShell • SQL • Linux
 ---
 
 ⭐️ *Open to DevOps / Cloud Engineering roles*
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viditpawar&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viditpawar&layout=compact&theme=dark)
