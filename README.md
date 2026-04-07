@@ -27,10 +27,10 @@ Python • Go • Bash • PowerShell • SQL • Linux
 ## Featured Repositories
 
 * [**fullstack-kanban-task-manager**](https://github.com/viditpawar/fullstack-kanban-task-manager) - Full-stack task board with React, Node.js, Express & GitHub Actions CI/CD
-* [**bakery-demand-forecasting-system**](https://github.com/viditpawar/bakery-demand-forecasting-system) - Seasonal demand forecasting API with Prophet & Docker
-* [**Dynamic-Fare-Detection**](https://github.com/viditpawar/Dynamic-Fare-Detection) - Real-time NYC taxi fare prediction using ML & FastAPI
-* [**flask-devops-lab**](https://github.com/viditpawar/flask-devops-lab) - DevOps practices with Flask applications
-* [**Power-BI-Dashboards**](https://github.com/viditpawar/Power-BI-Dashboards) - Interactive dashboards for sales & business analytics
+* [**Dynamic-Fare-Detection**](https://github.com/viditpawar/Dynamic-Fare-Detection) - Production ML service: Real-time NYC taxi fare prediction using LightGBM & FastAPI with PostgreSQL caching
+* [**bakery-demand-forecasting-system**](https://github.com/viditpawar/bakery-demand-forecasting-system) - Time-series forecasting API with Prophet, Docker, and DigitalOcean deployment
+* [**github-actions-cicd-demo**](https://github.com/viditpawar/github-actions-cicd-demo) - CI/CD pipeline implementation with GitHub Actions for automated linting, testing, build, and deployment
+* [**Power-BI-Dashboards**](https://github.com/viditpawar/Power-BI-Dashboards) - Interactive Power BI dashboards for sales and business analytics
 
 ---
 
@@ -39,28 +39,6 @@ Python • Go • Bash • PowerShell • SQL • Linux
 **DevOps Engineer Intern** @ Blue Cross Blue Shield of Arizona
 
 **Cloud Engineer** @ LTIMindtree
-
----
-
-## Featured Projects
-
-### GitOps CI/CD Pipeline (GitHub Actions + Docker)
-
-* Automated linting, build, and deployment workflows
-* Implemented zero-downtime deployments
-* Integrated containerized applications with cloud platforms
-
-### Kubernetes Microservices Deployment
-
-* Designed scalable architecture using Kubernetes + Helm
-* Configured auto-scaling and load balancing
-* Managed deployments using GitOps practices
-
-### Terraform Cloud Infrastructure
-
-* Built modular Terraform code for AWS provisioning
-* Automated VPC, compute, storage, and IAM setup
-* Designed reusable infrastructure components
 
 ---
 
