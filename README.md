@@ -87,6 +87,6 @@ Python • Go • Bash • PowerShell • SQL • Linux
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viditpawar&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viditpawar&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viditpawar&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viditpawar&langs_count=8&theme=dark&layout=pie)
