@@ -4,23 +4,35 @@
 
 Building scalable, secure, and automated cloud infrastructure
 
+![Profile Views](https://komarev.com/ghpvc/?username=viditpawar&color=blue&style=flat)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viditpawar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://viditpawar.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viditpawar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidit.pawar25@gmail.com)
 ---
 
-## Cloud & DevOps Stack
+## Tech Stack
 
-AWS • Azure • Terraform • Docker • Kubernetes • GitHub Actions • Jenkins • ArgoCD • Helm
+**Languages & Frameworks:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=mysql&logoColor=white)
 
-## Monitoring & Security
+**Cloud & Infrastructure:**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 
-SAST/DAST • SonarQube • Veracode • CloudWatch • Azure Monitor
-
-## Languages & Tools
-
-Python • Go • Bash • PowerShell • SQL • Linux
+**DevOps & CI/CD:**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 
 ---
 
@@ -60,6 +72,16 @@ Python • Go • Bash • PowerShell • SQL • Linux
 ---
 
 *Open to DevOps / Cloud Engineering roles*
+
+---
+
+## Activity Highlights
+
+* **12+** Projects & Repositories
+* **183+** GitHub Contributions (Last Year)
+* **300+** CI/CD Pipelines Optimized
+* **2+** Years of DevOps & Cloud Engineering Experience
+* **Multi-cloud** expertise: AWS, Azure, GCP
 
 ---
 
