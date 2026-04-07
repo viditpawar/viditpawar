@@ -34,6 +34,10 @@ Building scalable, secure, and automated cloud infrastructure
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 
+## Monitoring & Security
+
+SAST/DAST • SonarQube • Veracode • CloudWatch • Azure Monitor
+
 ---
 
 ## Featured Repositories
