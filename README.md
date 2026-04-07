@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Vidit
+# Hi, I'm Vidit
 
-🚀 **Cloud & DevOps Engineer (2+ years experience)**
-🎓 MS in Management Information Systems
-⚡ Building scalable, secure, and automated cloud infrastructure
+**Cloud & DevOps Engineer** | 2+ years experience | MS in Management Information Systems
+
+Building scalable, secure, and automated cloud infrastructure
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viditpawar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://viditpawar.com)
@@ -10,21 +10,21 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidit.pawar25@gmail.com)
 ---
 
-## ☁️ Cloud & DevOps Stack
+## Cloud & DevOps Stack
 
 AWS • Azure • Terraform • Docker • Kubernetes • GitHub Actions • Jenkins • ArgoCD • Helm
 
-## 🔐 Monitoring & Security
+## Monitoring & Security
 
 SAST/DAST • SonarQube • Veracode • CloudWatch • Azure Monitor
 
-## 💻 Languages & Tools
+## Languages & Tools
 
 Python • Go • Bash • PowerShell • SQL • Linux
 
 ---
 
-## � Featured Repositories
+## Featured Repositories
 
 * [**fullstack-kanban-task-manager**](https://github.com/viditpawar/fullstack-kanban-task-manager) - Full-stack task board with React, Node.js, Express & GitHub Actions CI/CD
 * [**bakery-demand-forecasting-system**](https://github.com/viditpawar/bakery-demand-forecasting-system) - Seasonal demand forecasting API with Prophet & Docker
@@ -34,29 +34,29 @@ Python • Go • Bash • PowerShell • SQL • Linux
 
 ---
 
-## �💼 Experience Highlights
+## Experience Highlights
 
-### 🔹 DevOps Engineer Intern @ Blue Cross Blue Shield of Arizona
+**DevOps Engineer Intern** @ Blue Cross Blue Shield of Arizona
 
-### 🔹 Cloud Engineer @ LTIMindtree
+**Cloud Engineer** @ LTIMindtree
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔹 GitOps CI/CD Pipeline (GitHub Actions + Docker)
+### GitOps CI/CD Pipeline (GitHub Actions + Docker)
 
 * Automated linting, build, and deployment workflows
 * Implemented zero-downtime deployments
 * Integrated containerized applications with cloud platforms
 
-### 🔹 Kubernetes Microservices Deployment
+### Kubernetes Microservices Deployment
 
 * Designed scalable architecture using Kubernetes + Helm
 * Configured auto-scaling and load balancing
 * Managed deployments using GitOps practices
 
-### 🔹 Terraform Cloud Infrastructure
+### Terraform Cloud Infrastructure
 
 * Built modular Terraform code for AWS provisioning
 * Automated VPC, compute, storage, and IAM setup
@@ -64,27 +64,27 @@ Python • Go • Bash • PowerShell • SQL • Linux
 
 ---
 
-## 📊 What I Bring
+## What I Bring
 
-* ⚡ 300+ pipelines optimized for reliability & security
-* ☁️ Multi-cloud experience (AWS + Azure + GCP basics)
-* 🔁 Strong automation mindset (IaC + CI/CD + scripting)
-* 🔐 DevSecOps integration experience
-
----
-
-## 🔗 Connect With Me
-
-* 💼 LinkedIn: https://linkedin.com/in/viditpawar/
-* 🌐 Portfolio: https://viditpawar.com
-* 📫 Email: [vidit.pawar25@gmail.com](mailto:vidit.pawar25@gmail.com)
+* 300+ pipelines optimized for reliability & security
+* Multi-cloud experience (AWS + Azure + GCP basics)
+* Strong automation mindset (IaC + CI/CD + scripting)
+* DevSecOps integration experience
 
 ---
 
-⭐️ *Open to DevOps / Cloud Engineering roles*
+## Connect With Me
+
+* **LinkedIn:** https://linkedin.com/in/viditpawar/
+* **Portfolio:** https://viditpawar.com
+* **Email:** [vidit.pawar25@gmail.com](mailto:vidit.pawar25@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+*Open to DevOps / Cloud Engineering roles*
+
+---
+
+## GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viditpawar&theme=dark)
