@@ -20,9 +20,7 @@ Building scalable, secure, and automated cloud infrastructure
 
 **DevOps & CI/CD:** GitHub Actions • Jenkins • ArgoCD • Helm
 
-## Monitoring & Security
-
-SAST/DAST • SonarQube • Veracode • CloudWatch • Azure Monitor
+**Monitoring & Security:** SAST/DAST • SonarQube • Veracode • CloudWatch • Azure Monitor
 
 ---
 
