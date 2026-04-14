@@ -75,4 +75,4 @@ Building scalable, secure, and automated cloud infrastructure
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viditpawar&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=viditpawar&theme=dark)
