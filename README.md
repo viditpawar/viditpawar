@@ -84,6 +84,3 @@ Building scalable, secure, and automated cloud infrastructure
 
 ---
 
-## GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=viditpawar&theme=dark)
