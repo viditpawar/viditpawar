@@ -1,6 +1,6 @@
 # Hi, I'm Vidit
 
-**Cloud & DevOps Engineer** | 2+ years experience | MS in Management Information Systems
+**Cloud Support Engineer** @ McKeever Lab, University of Arizona | MS in Management Information Systems (GPA 3.94)
 
 Building scalable, secure, and automated cloud infrastructure
 
@@ -12,40 +12,53 @@ Building scalable, secure, and automated cloud infrastructure
 
 ## Tech Stack
 
-**Languages & Frameworks:** Python • Go • Bash • PowerShell • SQL
+**Languages & Automation:** Python • Go • Bash • PowerShell • Git
 
-**Cloud & Infrastructure:** AWS • Azure • Docker • Kubernetes • Terraform
+**Cloud & Infrastructure as Code:** Azure • AWS • Terraform • AWS CloudFormation • Ansible
 
-**DevOps & CI/CD:** GitHub Actions • Jenkins • ArgoCD • Helm
+**Containers & Orchestration:** Docker • Kubernetes • Amazon EKS • Azure AKS • ArgoCD • Argo Rollouts
 
-**Monitoring & Security:** SAST/DAST • SonarQube • Veracode • CloudWatch • Azure Monitor
+**CI/CD & Release Engineering:** Azure DevOps • GitHub Actions • Jenkins
+
+**Monitoring & Security:** Azure Monitor • CloudWatch • Prometheus • Grafana • IAM • Azure Key Vault • SAST/DAST (SonarQube, Veracode)
 
 ---
 
 ## Featured Repositories
 
-* [**fullstack-kanban-task-manager**](https://github.com/viditpawar/fullstack-kanban-task-manager) - Full-stack task board with React, Node.js, Express & GitHub Actions CI/CD
-* [**Dynamic-Fare-Detection**](https://github.com/viditpawar/Dynamic-Fare-Detection) - Production ML service: Real-time NYC taxi fare prediction using LightGBM & FastAPI with PostgreSQL caching
-* [**bakery-demand-forecasting-system**](https://github.com/viditpawar/bakery-demand-forecasting-system) - Time-series forecasting API with Prophet, Docker, and DigitalOcean deployment
-* [**github-actions-cicd-demo**](https://github.com/viditpawar/github-actions-cicd-demo) - CI/CD pipeline implementation with GitHub Actions for automated linting, testing, build, and deployment
-* [**Power-BI-Dashboards**](https://github.com/viditpawar/Power-BI-Dashboards) - Interactive Power BI dashboards for sales and business analytics
+* [**aegis-self-healing-k8s**](https://github.com/viditpawar/aegis-self-healing-k8s) - Event-driven Kubernetes controller in Go auto-remediating crash-looping pods, with Argo Rollouts canary deployments gated on live Prometheus success-rate metrics and Discord alerting
+* [**Dynamic-Fare-Detection**](https://github.com/viditpawar/Dynamic-Fare-Detection) - Containerized full-stack fare prediction system for NYC taxis using Docker & Redis caching, with CI/CD to DigitalOcean via GitHub Actions
+* [**healthcare-provider-linkage**](https://github.com/viditpawar/healthcare-provider-linkage) - REST API integrating 3 federal datasets (Open Payments, PECOS, Medicare) aggregating 18M+ CMS records for unified provider search & ML-based scoring
+* [**three-tier-devsecops-k8s**](https://github.com/viditpawar/three-tier-devsecops-k8s) - End-to-end three-tier DevSecOps pipeline on self-hosted tooling, covering CI/CD, security scanning, and Kubernetes deployment
+* [**aws-cloud-automation-python**](https://github.com/viditpawar/aws-cloud-automation-python) - Python/Lambda automation for AWS resources: EC2, EBS, VPCs, and Elastic IPs
+* [**rag-pdf-grounding**](https://github.com/viditpawar/rag-pdf-grounding) - Self-hosted RAG system that answers questions from PDFs using a local LLM with cited sources
 
 ---
 
 ## Experience Highlights
 
-**DevOps Engineer Intern** @ Blue Cross Blue Shield of Arizona
+**Cloud Support Engineer** @ McKeever Lab, University of Arizona *(Feb 2026 – Present)*
 
-**Cloud Engineer** @ LTIMindtree
+**DevOps Engineer Intern** @ Blue Cross Blue Shield of Arizona *(May 2025 – Aug 2025)*
+
+**Cloud Engineer** @ LTIMindtree *(Jul 2022 – May 2024)*
+
+---
+
+## Certifications
+
+* HashiCorp Certified: Terraform Associate (2026)
+* Microsoft Certified: Azure Administrator Associate (AZ-104)
+* Microsoft Certified: Azure Fundamentals (AZ-900)
 
 ---
 
 ## What I Bring
 
-* 300+ pipelines optimized for reliability & security
-* Multi-cloud experience (AWS + Azure + GCP basics)
-* Strong automation mindset (IaC + CI/CD + scripting)
-* DevSecOps integration experience
+* 300+ CI/CD pipelines standardized for reliability & security
+* Multi-cloud experience (AWS + Azure)
+* Kubernetes & DevSecOps automation (Go controllers, ArgoCD, Argo Rollouts)
+* Strong IaC & automation mindset (Terraform, Ansible, Python, PowerShell)
 
 ---
 
@@ -57,17 +70,17 @@ Building scalable, secure, and automated cloud infrastructure
 
 ---
 
-*Open to DevOps / Cloud Engineering roles*
+*Open to Cloud / DevOps Engineering opportunities*
 
 ---
 
 ## Activity Highlights
 
-* **12+** Projects & Repositories
+* **18+** Projects & Repositories
 * **183+** GitHub Contributions (Last Year)
-* **300+** CI/CD Pipelines Optimized
-* **2+** Years of DevOps & Cloud Engineering Experience
-* **Multi-cloud** expertise: AWS, Azure, GCP
+* **300+** CI/CD Pipelines Standardized
+* **3+** Years of Cloud & DevOps Engineering Experience
+* **Multi-cloud** expertise: AWS, Azure
 
 ---
 
