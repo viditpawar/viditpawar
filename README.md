@@ -1,6 +1,6 @@
 # Hi, I'm Vidit
 
-**Cloud Support Engineer** @ McKeever Lab, University of Arizona | MS in Management Information Systems (GPA 3.94)
+**Cloud Support Engineer** @ McKeever Lab, University of Arizona | MS in Management Information Systems
 
 Building scalable, secure, and automated cloud infrastructure
 
