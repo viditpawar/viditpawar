@@ -1,6 +1,10 @@
+<div align="center">
+
 # Hi, I'm Vidit
 
-**Cloud Platform Engineer** @ Optum | Seattle, WA (open to relocate) | MS in Management Information Systems
+### Cloud Platform Engineer @ Optum
+
+Seattle, WA (open to relocate) · MS in Management Information Systems
 
 Building scalable, secure cloud infrastructure and backend systems across AWS & Azure
 
@@ -8,19 +12,48 @@ Building scalable, secure cloud infrastructure and backend systems across AWS & 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://viditpawar.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viditpawar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidit.p@myworkprofiles.com)
+
+</div>
+
 ---
 
 ## Tech Stack
 
-**Programming & Backend:** Python • Go • Bash • PowerShell • SQL • FastAPI • REST APIs • PostgreSQL
+**Programming & Backend**
 
-**Cloud:** Azure (AKS, Key Vault, Entra ID, Azure Monitor) • AWS (EC2, EKS, S3, IAM, VPC, CloudWatch)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Infrastructure & Automation:** Terraform • Azure Bicep • AWS CloudFormation • Ansible
+**Cloud**
 
-**Containers & DevOps:** Docker • Kubernetes • Helm • Argo CD • Azure DevOps • GitHub Actions • Jenkins
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-**Observability & Security:** Prometheus • Grafana • Splunk • Trivy • Checkov
+**Infrastructure & Automation**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+**Containers & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+**Observability & Security**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white)
 
 **Systems & Networking:** Linux • VPC/VNet design • private endpoints • DNS • load balancing (ALB) • TCP/IP
 
@@ -38,19 +71,19 @@ Building scalable, secure cloud infrastructure and backend systems across AWS & 
 
 ## Experience Highlights
 
-**Software Engineer - Cloud Platform** @ Optum *(Aug 2025 – Present)*
-
-**Cloud Engineer** @ LTIMindtree *(Jul 2022 – May 2024)*
-
-**Cloud Backend Engineer** @ NeonIT Systems *(Dec 2020 – Jun 2022)*
+| Role | Company | Duration |
+|---|---|---|
+| Software Engineer - Cloud Platform | Optum | Aug 2025 – Present |
+| Cloud Engineer | LTIMindtree | Jul 2022 – May 2024 |
+| Cloud Backend Engineer | NeonIT Systems | Dec 2020 – Jun 2022 |
 
 ---
 
 ## Certifications
 
-* HashiCorp Certified: Terraform Associate (2026)
-* Microsoft Certified: Azure Administrator Associate (AZ-104)
-* Microsoft Certified: Azure Fundamentals (AZ-900)
+![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AZ-104](https://img.shields.io/badge/Microsoft-Azure%20Administrator%20(AZ--104)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AZ-900](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20(AZ--900)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
@@ -78,10 +111,12 @@ Building scalable, secure cloud infrastructure and backend systems across AWS & 
 
 ## Activity Highlights
 
-* **18+** Projects & Repositories
-* **4+** Years of Cloud Platform & Backend Engineering Experience
-* **Multi-cloud** expertise: AWS, Azure
-* **Healthcare & digital media** platform experience at scale (100K+ daily interactions, 200K+ concurrent requests)
+| | |
+|---|---|
+| **18+** | Projects & Repositories |
+| **4+** | Years of Cloud Platform & Backend Engineering Experience |
+| **Multi-cloud** | AWS, Azure expertise |
+| **100K+ / 200K+** | Daily interactions / concurrent requests supported in production |
 
 ---
 
