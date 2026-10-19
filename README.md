@@ -11,7 +11,7 @@ Building scalable, secure cloud infrastructure and backend systems across AWS & 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viditpawar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://viditpawar.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viditpawar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidit.p@myworkprofiles.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidit.pawar@mailmywork.com)
 
 </div>
 
@@ -61,11 +61,11 @@ Building scalable, secure cloud infrastructure and backend systems across AWS & 
 
 ## Featured Repositories
 
+* [**QuakeFlow**](https://github.com/viditpawar/QuakeFlow) - Zero-cost streaming & batch platform ingesting live/historical USGS earthquake data with Kafka, Flink, Spark, Iceberg & Airflow
+* [**govwatch**](https://github.com/viditpawar/govwatch) - Real-time government bill & regulation ingestion pipeline with production-grade SLOs and self-healing capabilities
 * [**aegis-self-healing-k8s**](https://github.com/viditpawar/aegis-self-healing-k8s) - Go-based Kubernetes controller that auto-remediates unhealthy pods with metrics-gated canary rollouts
-* [**govwatch**](https://github.com/viditpawar/govwatch) - Government legislation & regulation data ingestion pipeline with production-grade SLOs and self-healing capabilities
-* [**contribflow**](https://github.com/viditpawar/contribflow) - Exactly-once 401(k) contribution ingestion pipeline across multiple payroll formats with idempotent processing
+* [**contribflow**](https://github.com/viditpawar/contribflow) - Exactly-once 401(k) contribution ingestion & reconciliation pipeline across multiple payroll formats
 * [**three-tier-devsecops-k8s**](https://github.com/viditpawar/three-tier-devsecops-k8s) - End-to-end three-tier DevSecOps pipeline with CI/CD security gates, testing, and GitOps delivery on Kubernetes
-* [**aws-cloud-automation-python**](https://github.com/viditpawar/aws-cloud-automation-python) - Lambda-ready boto3 scripts for EC2, EBS, VPC, and cost management automation
 
 ---
 
@@ -101,7 +101,7 @@ Building scalable, secure cloud infrastructure and backend systems across AWS & 
 
 * **LinkedIn:** https://linkedin.com/in/viditpawar/
 * **Portfolio:** https://viditpawar.com
-* **Email:** [vidit.p@myworkprofiles.com](mailto:vidit.p@myworkprofiles.com)
+* **Email:** [vidit.pawar@mailmywork.com](mailto:vidit.pawar@mailmywork.com)
 
 ---
 
