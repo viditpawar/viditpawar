@@ -2,7 +2,7 @@
 
 # Hi, I'm Vidit
 
-### Cloud Platform Engineer @ Optum
+### Cloud Platform Engineer 
 
 Seattle, WA (open to relocate) · MS in Management Information Systems
 
@@ -69,16 +69,6 @@ Building scalable, secure cloud infrastructure and backend systems across AWS & 
 
 ---
 
-## Experience Highlights
-
-| Role | Company | Duration |
-|---|---|---|
-| Software Engineer - Cloud Platform | Optum | Aug 2025 – Present |
-| Cloud Engineer | LTIMindtree | Jul 2022 – May 2024 |
-| Cloud Backend Engineer | NeonIT Systems | Dec 2020 – Jun 2022 |
-
----
-
 ## Certifications
 
 ![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -89,7 +79,7 @@ Building scalable, secure cloud infrastructure and backend systems across AWS & 
 
 ## What I Bring
 
-* 4+ years building & supporting backend systems and cloud infrastructure across AWS and Azure
+* 5+ years building & supporting backend systems and cloud infrastructure across AWS and Azure
 * Multi-region IaC with Terraform, Azure Bicep & AWS CloudFormation; provisioning cut from days to hours
 * GitOps & Kubernetes delivery (Argo CD, EKS/AKS, Helm) that cut deployment failures significantly
 * Backend development in Python/FastAPI & Go, with PostgreSQL performance tuning
