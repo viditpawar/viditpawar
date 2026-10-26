@@ -89,9 +89,9 @@ Building scalable, secure cloud infrastructure and backend systems across AWS & 
 
 ## Connect With Me
 
-* **LinkedIn:** https://linkedin.com/in/viditpawar/
+* **LinkedIn:** https://linkedin.com/in/viditpawar25/
 * **Portfolio:** https://viditpawar.com
-* **Email:** [vidit.pawar@mailmywork.com](mailto:vidit.pawar@mailmywork.com)
+* **Email:** [vidit.pawar@profilemails.com](mailto:vidit.pawar@profilemails.com)
 
 ---
 
